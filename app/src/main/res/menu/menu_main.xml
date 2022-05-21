@@ -1,0 +1,45 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.frgmentation.MainActivity">
+    <item
+        android:id="@+id/action_Sms"
+        android:orderInCategory="100"
+        android:title="SMS"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Call"
+        android:orderInCategory="100"
+        android:title="Call"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Dial"
+        android:orderInCategory="100"
+        android:title="Dial"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Share"
+        android:orderInCategory="100"
+        android:title="Share"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Camera"
+        android:orderInCategory="100"
+        android:title="Camera"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Email"
+        android:orderInCategory="100"
+        android:title="Email"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Mpesa"
+        android:orderInCategory="100"
+        android:title="Mpesa"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Close"
+        android:orderInCategory="100"
+        android:title="Close"
+        app:showAsAction="never" />
+</menu>
